@@ -1,1 +1,1 @@
-FROM sneumann/bioc_notebooks@sha256:f94f16e321d4bbadd4d721bfe29cd8e0c110333054ca5eeeb3692bbcadc2dcdc
+FROM sneumann/bioc_notebooks:R3.6.0_Bioc3.9
